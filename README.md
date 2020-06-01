@@ -1,1 +1,1 @@
-## Pretrained model on MINST digit dataset for handwritten digit recognition with source code
+## Pretrained model on MINST dataset for handwritten digit recognition with source code 
