@@ -2,7 +2,7 @@
 var model;
 
 async function loadModel() {
-    model = await tf.loadGraphModel('C:\Users\Tomasz\MachineLearning\math_garden_stub\TFJS');
+    model = await tf.loadGraphModel('C:\Users\MachineLearning\math_garden_stub\TFJS');
 }
 
 function predictImage() {
